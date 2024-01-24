@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakcreate&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakcreate" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sarthakmangalm2" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakmangalm2?logo=twitter&style=for-the-badge" alt="sarthakmangalm2" /></a> </p>
-
-- 🔭 I’m currently working on **speech recognition**
+- 🔭 I’m currently working on **Social Network Analysis and Gen AI**
 
 - 🌱 I’m currently learning **Deep Learning and MERN Stack**
 
@@ -13,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarthakmangalm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakmangalm2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarthak-mangalmurti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-mangalmurti" height="30" width="40" /></a>
 <a href="https://kaggle.com/sarthakmangalmurti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sarthakmangalmurti" height="30" width="40" /></a>
 <a href="https://medium.com/@sarthakmangalmurti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarthakmangalmurti" height="30" width="40" /></a>
