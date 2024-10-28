@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakcreate&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakcreate" /> </p>
 
-- 🔭 I’m currently working on **Social Network Analysis and Gen AI**
+- 🔭 I’m currently working on **Deep Learning and Data Analytics**
 
-- 🌱 I’m currently learning **Deep Learning and MERN Stack**
+- 🌱 I’m currently learning **Model Deployment**
 
 - 📫 How to reach me **sarthakmangalmurti@gmail.com**
 
