@@ -16,7 +16,7 @@
 
 ---
 
-## 🔬 Research & Projects  
+## 💡 AI-Powered Projects with Real-World Use-Cases
 - **Domains:** Generative AI, Machine Learning, Deep Learning, Business Analytics  
 - **Notable Projects:**  
   - 🧑‍🏫 Teacher–Student Assistants  
@@ -36,7 +36,7 @@
 
 ---
 
-## 💡 What I Bring  
+## ⚡ What I Bring  
 - 🧑‍💻 **Technical Expertise** – AI/ML, Data Science, GenAI & Business Analytics  
 - 🔬 **Research Depth** – published works, global collaborations  
 - 💼 **Business Problem-Solving** – bridging AI with practical, impactful solutions  
