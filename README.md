@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I am Sarthak<br>I am currently working on Data Science, Business Analytics & Product<br>I am passionate about solving real-world problems with AI&ML
+Hi, My name is Sarthak, and I am an AI Developer and Data Science professional with 
+strong expertise in Business Analytics and Product Management, building 
+solutions that connect advanced machine learning models to real-world business 
+outcomes. 
 
 
 ## 🌐 Socials:
