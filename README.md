@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Sarthak
 
-🚀 **AI/ML Specialist | Certified Business Analyst | Researcher | Educator**  
+**AI/ML Developer & Data Science Professional | Certified Business Analyst | Researcher | Educator**  
 
 ---
 
@@ -31,7 +31,8 @@
 ## 🌍 Community & Impact  
 - 🤝 **Coordinator @ Cypher 2025** – India’s largest AI Summit (5000+ attendees, 150+ sessions)  
 - 🌐 **125k+ LinkedIn Impressions** – actively sharing insights on AI, Analytics & Product Innovation  
-- 📢 Recognized for **community management & ecosystem impact**  
+- 📢 Recognized for **community management & technical expertise**
+- 🎤 **Delivered 7 Expert Talks** on AI/ML, Data Science and GenAI, mentoring over 1500+ learners
 
 ---
 
@@ -39,7 +40,7 @@
 - 🧑‍💻 **Technical Expertise** – AI/ML, Data Science, GenAI & Business Analytics  
 - 🔬 **Research Depth** – published works, global collaborations  
 - 💼 **Business Problem-Solving** – bridging AI with practical, impactful solutions  
-- 🎤 **Educator** – workshops, mentoring, project-based learning to 1500+ learners 
+- 🎤 **Educator** – workshops, mentoring, project-based learning
 
 ---
 
