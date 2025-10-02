@@ -1,8 +1,49 @@
-# 💫 About Me:
-Hi, My name is Sarthak, and I am an AI Developer and Data Science professional with 
-strong expertise in Business Analytics and Product Management, building 
-solutions that connect advanced machine learning models to real-world business 
-outcomes. 
+# 👋 Hey, I’m Sarthak
+
+🚀 **AI/ML Specialist | Certified Business Analyst | Researcher | Educator**  
+
+---
+
+## 📄 About Me  
+- 📝 **Authored 5 research papers** in **Deep Learning & Applied ML** across  
+  - Healthcare  
+  - AI-driven Marketing  
+  - AutoML solutions  
+  - Focused on **practical deployment**  
+- 🤝 Collaborated with **IIT Indore** and an **international research project in the Netherlands**, earning **global appreciation**  
+- 🏆 Led teams in **national & international competitions**, securing **top rankings & finalist positions**  
+- 🎓 Designed & delivered **hands-on training sessions for 1000+ learners**, simplifying complex AI into **practical, buildable projects**  
+
+---
+
+## 🔬 Research & Projects  
+- **Domains:** Generative AI, Machine Learning, Deep Learning, Business Analytics  
+- **Notable Projects:**  
+  - 🧑‍🏫 Teacher–Student Assistants  
+  - 🧠 Multimodal Depression Detection  
+  - 🎙️ Speech Emotion Recognition  
+  - 📊 Customer Behaviour Analysis  
+  - 📚 **RAG-powered LLM Apps**  
+  - ⚡ Predictive Models with **XGBoost, LightGBM, CNNs**  
+
+---
+
+## 🌍 Community & Impact  
+- 🤝 **Coordinator @ Cypher 2025** – India’s largest AI Summit (5000+ attendees, 150+ sessions)  
+- 🌐 **125k+ LinkedIn Impressions** – actively sharing insights on AI, Analytics & Product Innovation  
+- 📢 Recognized for **community management & ecosystem impact**  
+
+---
+
+## 💡 What I Bring  
+- 🧑‍💻 **Technical Expertise** – AI/ML, Data Science, GenAI & Business Analytics  
+- 🔬 **Research Depth** – published works, global collaborations  
+- 💼 **Business Problem-Solving** – bridging AI with practical, impactful solutions  
+- 🎤 **Educator** – workshops, mentoring, project-based learning to 1500+ learners 
+
+---
+
+✨ *Turning advanced AI into practical, impactful solutions that matter.*  
 
 
 ## 🌐 Socials:
